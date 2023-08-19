@@ -22,7 +22,7 @@ Necesitarán una computadora, y habrá dos formas de trabajar.
  * **NUBE:** Gran ventaja, no necesitan instalar NADA. Usaremos Google Colab, que es un laboratorio virtual para utilizar los códigos. Para eso deberán descargar el material y subirlo en una carpeta de Drive (en sus propias cuentas). Al estar enlazado, Colab no necesita más. La desventaja es que sí necesitarán una conexión estable durante la actividad (algo que no podemos asegurar por el mal wifi en el campus), se recomienda que compren una bolsa ilimitada de megas o consigan algún otro medio de conexión.
  
 ## 2. Materiales
-_Por subir_
+`lab_transiting_exoplanets.ipynb`. Archivo jupyter notebook que tiene todos los materiales necesarios para el manejo de este laboratorio.
 
 ## 3. Lecturas previas y bibliografía
  + [Down in Front!: The Transit Photometry Method](https://www.planetary.org/articles/down-in-front-the-transit-photometry-method)
